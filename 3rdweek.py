@@ -7,7 +7,7 @@ win = turtle.Screen()
 turtle.setup(800,600)
 turtle.title("거북이 등산")
 win.bgpic("산길.gif")
-t = turtle.Turtle("turtle")
+t = turtle.Turtle("turtle")s
 t.penup()
 t.goto(-100, -250)
 t.left(30)
