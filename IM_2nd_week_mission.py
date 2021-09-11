@@ -39,7 +39,7 @@ t.mainloop()
 ## turtle 마우스 이벤트 처리 Mission
 ## : 오른쪽 마우스 클릭 시 화면이 지워지는 기능을 추가해보자.
 ## turtle 마우스 이벤트 처리 Mission
-'''
+
 import turtle as t
 import random
 
@@ -75,7 +75,7 @@ t.onscreenclick(turtleStamp, 1)
 t.onscreenclick(turtleclear, 3)
 
 t.mainloop()
-'''
+
 ## turtle 키보드 이벤트 처리 연습문제
 '''
 import turtle as t
